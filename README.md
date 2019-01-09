@@ -1,6 +1,9 @@
 # github-repo
 github maven repo
 
+Use this repo like
+
+```
 <repositories>
         <repository>
             <id>maven-repo-github-releases</id>
@@ -11,3 +14,4 @@ github maven repo
             <url>https://raw.github.com/xuminwlt/maven-repo/master/snapshots</url>
         </repository>
     </repositories>
+```
