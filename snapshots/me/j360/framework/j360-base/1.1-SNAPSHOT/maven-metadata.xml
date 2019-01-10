@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>me.j360.framework</groupId>
+  <artifactId>j360-base</artifactId>
+  <version>1.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190110.060823</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20190110060823</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.1-20190110.060823-1</value>
+        <updated>20190110060823</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.1-20190110.060823-1</value>
+        <updated>20190110060823</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
